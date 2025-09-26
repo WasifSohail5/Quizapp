@@ -1,0 +1,304 @@
+[
+  {
+    "type": "mcq",
+    "question": "Solve: 2x + 3 = 7",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "2",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Algebra",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "Simplify: (x^2 * x^3)",
+    "options": ["x^5", "x^6", "x^9", "x^8"],
+    "correctAnswer": "x^5",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Algebra",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "If x + y = 10 and x - y = 4, find x.",
+    "options": ["7", "6", "8", "5"],
+    "correctAnswer": "7",
+    "difficulty": 2,
+    "timeThreshold": 40,
+    "category": "Algebra",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "Factorize: x^2 - 9",
+    "options": ["(x+9)(x-9)", "(x+3)(x-3)", "(x+1)(x-9)", "(x+2)(x-7)"],
+    "correctAnswer": "(x+3)(x-3)",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Algebra",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "Find the roots of x^2 - 5x + 6 = 0",
+    "options": ["(2,3)", "(1,6)", "(5,6)", "(3,6)"],
+    "correctAnswer": "(2,3)",
+    "difficulty": 2,
+    "timeThreshold": 40,
+    "category": "Algebra",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "Solve: 3x + 5 = 20",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "5",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Algebra",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "Expand: (x+2)^2",
+    "options": ["x^2 + 4x + 4", "x^2 + 2x + 4", "x^2 + 2x + 2", "x^2 + 4x + 2"],
+    "correctAnswer": "x^2 + 4x + 4",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Algebra",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "Simplify: (2x^2 * 3x^3)",
+    "options": ["6x^5", "5x^6", "3x^6", "2x^8"],
+    "correctAnswer": "6x^5",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Algebra",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "Solve: x^2 = 16",
+    "options": ["x = ±4", "x = 4", "x = -4", "x = ±8"],
+    "correctAnswer": "x = ±4",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Algebra",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "If 2x + 3 = 11, what is x?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "4",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Algebra",
+    "active": true
+  },
+
+  {
+    "type": "mcq",
+    "question": "sin(30°) = ?",
+    "options": ["1/2", "√3/2", "0", "1"],
+    "correctAnswer": "1/2",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Trigonometry",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "cos(60°) = ?",
+    "options": ["1/2", "√3/2", "0", "1"],
+    "correctAnswer": "1/2",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Trigonometry",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "tan(45°) = ?",
+    "options": ["0", "1", "√3", "∞"],
+    "correctAnswer": "1",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Trigonometry",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "sin²θ + cos²θ = ?",
+    "options": ["0", "1", "2", "θ"],
+    "correctAnswer": "1",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Trigonometry",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "If tanθ = 1, then θ = ?",
+    "options": ["30°", "45°", "60°", "90°"],
+    "correctAnswer": "45°",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Trigonometry",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "cos(0°) = ?",
+    "options": ["0", "1", "1/2", "√3/2"],
+    "correctAnswer": "1",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Trigonometry",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "sin(90°) = ?",
+    "options": ["0", "1", "1/2", "√3/2"],
+    "correctAnswer": "1",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Trigonometry",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "cos(90°) = ?",
+    "options": ["0", "1", "√3/2", "1/2"],
+    "correctAnswer": "0",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Trigonometry",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "tan(0°) = ?",
+    "options": ["0", "1", "∞", "√3"],
+    "correctAnswer": "0",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Trigonometry",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "sin(60°) = ?",
+    "options": ["1/2", "√3/2", "1", "0"],
+    "correctAnswer": "√3/2",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Trigonometry",
+    "active": true
+  },
+
+  {
+    "type": "mcq",
+    "question": "A shopkeeper buys an item for $100 and sells it for $120. Profit %?",
+    "options": ["10%", "15%", "20%", "25%"],
+    "correctAnswer": "20%",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Profit & Loss",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "A pen is sold for $90 at a loss of 10%. Find the cost price.",
+    "options": ["100", "110", "120", "130"],
+    "correctAnswer": "100",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Profit & Loss",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "If CP = $80 and Profit = $20, find SP.",
+    "options": ["90", "95", "100", "110"],
+    "correctAnswer": "100",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Profit & Loss",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "A trader gains 25% on selling an article for $500. Find CP.",
+    "options": ["400", "450", "480", "420"],
+    "correctAnswer": "400",
+    "difficulty": 2,
+    "timeThreshold": 40,
+    "category": "Profit & Loss",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "An item bought at $600 is sold at a loss of 15%. SP?",
+    "options": ["510", "520", "530", "540"],
+    "correctAnswer": "510",
+    "difficulty": 2,
+    "timeThreshold": 40,
+    "category": "Profit & Loss",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "CP = $250, SP = $300. Find Profit %.",
+    "options": ["15%", "20%", "25%", "30%"],
+    "correctAnswer": "20%",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Profit & Loss",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "If CP = $200 and SP = $160, find Loss %.",
+    "options": ["15%", "20%", "25%", "30%"],
+    "correctAnswer": "20%",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Profit & Loss",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "A man buys a book for $150 and sells it for $180. Find Profit %.",
+    "options": ["15%", "18%", "20%", "25%"],
+    "correctAnswer": "20%",
+    "difficulty": 1,
+    "timeThreshold": 30,
+    "category": "Profit & Loss",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "An item is sold for $270 at 10% profit. Find CP.",
+    "options": ["240", "245", "250", "260"],
+    "correctAnswer": "245",
+    "difficulty": 2,
+    "timeThreshold": 40,
+    "category": "Profit & Loss",
+    "active": true
+  },
+  {
+    "type": "mcq",
+    "question": "A product is sold at $400 with 20% loss. Find CP.",
+    "options": ["450", "470", "480", "500"],
+    "correctAnswer": "500",
+    "difficulty": 2,
+    "timeThreshold": 40,
+    "category": "Profit & Loss",
+    "active": true
+  }
+]
